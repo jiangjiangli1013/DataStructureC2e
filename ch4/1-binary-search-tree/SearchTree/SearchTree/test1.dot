@@ -1,0 +1,17 @@
+digraph G {
+graph [ dpi = 150 ]
+nodesep=0.3;
+ranksep=0.2;
+margin=0.1;
+node [shape=circle];
+edge [arrowsize=0.8];
+-842150451 -> 6
+6 -> 2
+2 -> 1
+}6 -> 2
+2 -> 1
+}4 -> 3
+1 -> NULL [style=invis];
+NULL [style=invis];
+1 -> NULL [style=invis];
+NULL [style=invis];
